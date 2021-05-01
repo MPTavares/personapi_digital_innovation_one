@@ -1,5 +1,14 @@
 <h2>Digital Innovation: Expert class - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
 
+****************************************************************************
+Este projeto foi apresentado por Rodrigo Peleias em uma aula da Digital Innovation One.
+Ao finalizar o projeto, foram acrescentadas 2 novas funcionalidades a API REST:
+* Pesquisa por nome, que pesquisa tanto nos campos firstName e lastName simultaneamente. 
+http://localhost:8080/api/v1/name/{parte do nome a ser pesquisado}
+* Pesquisa por CPF
+* http://localhost:8080/api/v1/cpf/{parte do cpf a ser pesquisado}
+****************************************************************************
+
 Nesta live coding vamos desenvolver um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
 
 Durante a sessão, serão desenvolvidos e abordados os seguintes tópicos:
