@@ -3,7 +3,7 @@
 ****************************************************************************
 Este projeto foi apresentado por Rodrigo Peleias em uma aula da Digital Innovation One.
 Ao finalizar o projeto, foram acrescentadas 2 novas funcionalidades a API REST:
-* Pesquisa por nome, que pesquisa tanto nos campos firstName e lastName simultaneamente. 
+* Pesquisa por nome nos campos firstName e lastName simultaneamente. 
 http://localhost:8080/api/v1/name/{parte do nome a ser pesquisado}
 * Pesquisa por CPF
 * http://localhost:8080/api/v1/cpf/{parte do cpf a ser pesquisado}
